@@ -1,2 +1,0 @@
-class UniversityStaff < Teacher
-end
